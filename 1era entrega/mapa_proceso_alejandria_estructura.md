@@ -9,19 +9,40 @@
 *(Rúbrica: curso, organización, proceso analizado, integrantes, profesor, fecha, versión.)*
 
 - **Curso:** CC5603 – Gestión y Gobernanza de Datos
-- **Organización:**
-- **Proceso analizado:**
-- **Integrantes del equipo:**
-- **Profesor:** Hugo Beltrán Alejos
-- **Fecha de entrega:**
-- **Versión del documento:**
+- **Organización:** AlejandrIA
+- **Proceso analizado:** Captar y cerrar un piloto
+- **Integrantes del equipo:** Diego Sanchez y Mariano Mora
+- **Profesor:** Hugo Beltrán
+- **Ayudante:** Luciano Massa Pérez
+- **Fecha de entrega:** 07-09-2026
+- **Versión del documento:** 1.0.0
 
 ---
 
 ## 1. Resumen ejecutivo
 *(≈ media página. Debe permitir entender el resultado general sin leer todo el informe: organización, proceso seleccionado, por qué es crítico, principales hallazgos, brechas más relevantes, recomendación principal.)*
 
-`[Pendiente]`
+> **Borrador ** (Hay que ajustarlo una vez con el informe completo)
+
+AlejandrIA es una consultoría boutique dedicada a la "formación de formadores" para empresas de minería e industria. Su premisa es que los formadores internos de estas empresas —supervisores, jefes de turno o expertos técnicos ascendidos— son excelentes operadores pero nunca fueron preparados para enseñar, lo que produce capacitación que no llega al puesto de trabajo. Para resolverlo, AlejandrIA toma a ese personal interno y lo transforma en "forjadores" certificados, aplicando una metodología propia basada en la andragogía (la disciplina que estudia cómo aprenden los adultos, a diferencia de la pedagogía, centrada en niños). Además, mide el efecto real de la capacitación mediante un sistema propio de cinco niveles, en lugar de limitarse a registrar asistencia. La organización todavía no tiene clientes pagando y su meta declarada para el trimestre en curso es cerrar su primer piloto.
+
+El proceso crítico analizado es **"Captar y cerrar un piloto"**: el ciclo comercial que va desde que se identifica una empresa industrial con interés potencial hasta que esa empresa firma o compromete formalmente el piloto, o bien el prospecto se descarta. Se eligió porque es el único de los procesos candidatos que ya ocurre y porque constituye el cuello de botella del negocio: mientras no se cierre un primer piloto pagado no se activa el ingreso, no existe un caso institucional real que respalde la venta de los siguientes clientes y no se generan datos reales para calibrar el sistema de medición ni la futura plataforma.
+
+El levantamiento identifica que el proceso opera de forma casi totalmente manual y sin soporte de sistemas. Los principales hallazgos son: 
+
+    (1) No existe ningún sistema de seguimiento comercial —ni CRM ni planilla estructurada—, por lo que el estado de cada prospecto reside en el correo y la memoria de una sola socia. 
+
+    (2) Todo el ciclo comercial depende de una única persona, sin respaldo documentado.
+
+    (3) No hay un criterio escrito para calificar prospectos ni un precio de piloto acordado entre las socias.
+    
+    (4) La personalización de la propuesta comercial se hace campo por campo sobre una plantilla extensa, siendo el paso más lento y el más expuesto a errores e inconsistencias de versión. 
+
+    (5) Conviven múltiples versiones del mismo documento maestro sin una fuente única de verdad.
+
+    (6) No hay definiciones compartidas para conceptos clave como "piloto cerrado" ni indicadores medidos del proceso. Como contexto de gobernanza, el Pacto de Socias sigue siendo un borrador sin firmar y la sociedad no está constituida legalmente.
+
+La recomendación principal es implementar un sistema mínimo y compartido de seguimiento comercial —aunque sea una planilla bien estructurada—, acompañado de un criterio escrito de calificación de prospectos y de un precio único de piloto acordado entre las socias, de modo de reducir la dependencia de una sola persona y dar trazabilidad al proceso antes de escalar a más clientes y de construir el catálogo de datos.
 
 ---
 
